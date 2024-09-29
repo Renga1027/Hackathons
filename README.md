@@ -4,6 +4,6 @@ S.P.I.T HACKATHON'22
 Team Name: Paradox of Youth
 
 Team Members:
-1. V.Harini
+1. Rengarajan S
 2. Saikrishna S
-3. Rengarajan S
+3. V.Harini
